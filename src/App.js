@@ -1,3 +1,4 @@
+import "./App.css";
 import { CardList } from "./CardList";
 import { robots } from "./robots";
 import { SearchBox } from "./SearchBox";
